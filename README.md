@@ -64,11 +64,6 @@
 
 
 ## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
