@@ -17,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%" align="center">
+<table><tr><td valign="top" width="33%">
 
 
 
