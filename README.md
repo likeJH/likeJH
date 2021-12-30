@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm jeonghwan, dreaming of becoming a developer, and growing day by day. 💪  studying since Nov 2021. 🚀</div>  
+### <div align="center">I'm jeonghwan, dreaming of becoming a developer, and growing day by day. 💪 <br/> studying since Nov 2021. 🚀</div>  
   
 
 - 🔭 I’m currently possible HTML, CSS, JavaScript.  
