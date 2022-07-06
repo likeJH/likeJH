@@ -8,14 +8,6 @@
 
 <br/>
 
-- 🔭 I’m currently possible HTML, CSS, JavaScript.  
-  
-
-- 🌱 I’m currently learning Node.js, React.js, Blockchain.  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
